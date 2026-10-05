@@ -1,0 +1,386 @@
+{
+  "cakes": [
+    {
+      "id": "c1",
+      "name": "Chocolate Truffle Cake",
+      "price": 850,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=300&q=60&fm=webp",
+      "description": "Rich, moist chocolate sponge layered with silky truffle ganache.",
+      "ingredients": ["Unbleached flour", "Real butter", "Dark chocolate", "Fresh cream", "Cocoa powder"],
+      "rating": 4.8,
+      "category": "cakes",
+      "tags": ["bestseller", "chocolate"]
+    },
+    {
+      "id": "c2",
+      "name": "Red Velvet Cake",
+      "price": 950,
+      "image": "https://images.unsplash.com/photo-1586985289906-406988974504?w=300&q=60&fm=webp",
+      "description": "Classic red velvet with cream cheese frosting.",
+      "ingredients": ["Flour", "Butter", "Cream cheese", "Buttermilk", "Cocoa"],
+      "rating": 4.7,
+      "category": "cakes",
+      "tags": ["premium"]
+    },
+    {
+      "id": "c3",
+      "name": "Vanilla Bean Cake",
+      "price": 750,
+      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=300&q=60&fm=webp",
+      "description": "Light and fluffy vanilla cake with real vanilla beans.",
+      "ingredients": ["Flour", "Butter", "Vanilla beans", "Eggs", "Sugar"],
+      "rating": 4.5,
+      "category": "cakes",
+      "tags": ["classic"]
+    },
+    {
+      "id": "c4",
+      "name": "Cupcake",
+      "price": 120,
+      "image": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?w=300&q=60&fm=webp",
+      "description": "Colorful frosted cupcake with sprinkles and rich buttercream.",
+      "ingredients": ["Flour", "Butter", "Sugar", "Eggs", "Vanilla", "Sprinkles"],
+      "rating": 4.6,
+      "category": "cakes",
+      "tags": ["kids", "party"]
+    },
+    {
+      "id": "c5",
+      "name": "Chocolate Drip Cake",
+      "price": 1450,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=300&q=60&fm=webp",
+      "description": "Decadent chocolate cake with drip glaze and chocolate curls.",
+      "ingredients": ["Flour", "Dark chocolate", "Butter", "Cream", "Cocoa"],
+      "rating": 4.9,
+      "category": "cakes",
+      "tags": ["premium", "chocolate"]
+    },
+    {
+      "id": "c6",
+      "name": "Cheesecake",
+      "price": 1650,
+      "image": "https://images.unsplash.com/photo-1533134242457-8c4c1a6e0c60?w=300&q=60&fm=webp",
+      "description": "Creamy New York style cheesecake with berry compote.",
+      "ingredients": ["Cream cheese", "Eggs", "Sugar", "Vanilla", "Berry compote", "Biscuit base"],
+      "rating": 4.8,
+      "category": "cakes",
+      "tags": ["bestseller", "premium"]
+    },
+    {
+      "id": "c7",
+      "name": "Loaf Cake",
+      "price": 680,
+      "image": "https://images.unsplash.com/photo-1607920591413-4ec007e70023?w=300&q=60&fm=webp",
+      "description": "Moist lemon loaf cake with sweet glaze drizzle.",
+      "ingredients": ["Flour", "Butter", "Lemon zest", "Sugar", "Eggs", "Icing sugar"],
+      "rating": 4.5,
+      "category": "cakes",
+      "tags": ["tea-time"]
+    }
+  ],
+  "pastries": [
+    {
+      "id": "p1",
+      "name": "Butter Croissant",
+      "price": 120,
+      "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=300&q=60&fm=webp",
+      "description": "Flaky, buttery, freshly baked every morning.",
+      "ingredients": ["Flour", "Butter", "Yeast", "Milk", "Salt"],
+      "rating": 4.6,
+      "category": "pastries",
+      "tags": ["breakfast"]
+    },
+    {
+      "id": "p2",
+      "name": "Chocolate Éclair",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1612203985729-70726954388c?w=300&q=60&fm=webp",
+      "description": "Cream-filled choux pastry with chocolate glaze.",
+      "ingredients": ["Flour", "Butter", "Cream", "Chocolate", "Eggs"],
+      "rating": 4.7,
+      "category": "pastries",
+      "tags": ["premium"]
+    },
+    {
+      "id": "p3",
+      "name": "Donut",
+      "price": 90,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=300&q=60&fm=webp",
+      "description": "Chocolate glazed donut with colorful sprinkles.",
+      "ingredients": ["Flour", "Yeast", "Chocolate", "Sugar", "Sprinkles"],
+      "rating": 4.5,
+      "category": "pastries",
+      "tags": ["kids"]
+    },
+    {
+      "id": "p4",
+      "name": "Danish Pastry",
+      "price": 180,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&q=60&fm=webp",
+      "description": "Buttery Danish pastry with fresh berry filling.",
+      "ingredients": ["Flour", "Butter", "Cream cheese", "Berries", "Sugar"],
+      "rating": 4.7,
+      "category": "pastries",
+      "tags": ["premium"]
+    },
+    {
+      "id": "p5",
+      "name": "Cream Puff",
+      "price": 110,
+      "image": "https://images.unsplash.com/photo-1612203985729-70726954388c?w=300&q=60&fm=webp",
+      "description": "Light choux pastry filled with vanilla cream.",
+      "ingredients": ["Flour", "Butter", "Cream", "Eggs", "Vanilla"],
+      "rating": 4.6,
+      "category": "pastries",
+      "tags": ["classic"]
+    },
+    {
+      "id": "p6",
+      "name": "Pain au Chocolat",
+      "price": 160,
+      "image": "https://images.unsplash.com/photo-1530610476181-d83430b64dcd?w=300&q=60&fm=webp",
+      "description": "Flaky croissant dough wrapped around dark chocolate.",
+      "ingredients": ["Flour", "Butter", "Dark chocolate", "Yeast", "Milk"],
+      "rating": 4.8,
+      "category": "pastries",
+      "tags": ["bestseller"]
+    },
+    {
+      "id": "p7",
+      "name": "Jelly Donut",
+      "price": 100,
+      "image": "https://images.unsplash.com/photo-1626803775151-61d756612f97?w=300&q=60&fm=webp",
+      "description": "Soft donut filled with sweet fruit jelly and dusted sugar.",
+      "ingredients": ["Flour", "Yeast", "Jelly", "Sugar"],
+      "rating": 4.4,
+      "category": "pastries",
+      "tags": ["classic"]
+    }
+  ],
+  "cookies": [
+    {
+      "id": "k1",
+      "name": "Choco Chip Cookie",
+      "price": 80,
+      "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=300&q=60&fm=webp",
+      "description": "Chewy center, crispy edges, loaded with chocolate chips.",
+      "ingredients": ["Flour", "Butter", "Brown sugar", "Chocolate chips", "Vanilla"],
+      "rating": 4.9,
+      "category": "cookies",
+      "tags": ["bestseller"]
+    },
+    {
+      "id": "k2",
+      "name": "Oatmeal Raisin Cookie",
+      "price": 70,
+      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=300&q=60&fm=webp",
+      "description": "Wholesome oats with sweet raisins.",
+      "ingredients": ["Oats", "Flour", "Butter", "Raisins", "Cinnamon"],
+      "rating": 4.4,
+      "category": "cookies",
+      "tags": ["healthy"]
+    },
+    {
+      "id": "k3",
+      "name": "Macaron",
+      "price": 90,
+      "image": "https://images.unsplash.com/photo-1569864358642-9d1684040f43?w=300&q=60&fm=webp",
+      "description": "Delicate French macaron with smooth ganache filling.",
+      "ingredients": ["Almond flour", "Egg whites", "Sugar", "Ganache", "Food coloring"],
+      "rating": 4.8,
+      "category": "cookies",
+      "tags": ["premium", "french"]
+    },
+    {
+      "id": "k4",
+      "name": "Brownie",
+      "price": 130,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=300&q=60&fm=webp",
+      "description": "Fudgy, rich chocolate brownie with cracked top.",
+      "ingredients": ["Dark chocolate", "Butter", "Sugar", "Eggs", "Flour"],
+      "rating": 4.9,
+      "category": "cookies",
+      "tags": ["bestseller", "chocolate"]
+    },
+    {
+      "id": "k5",
+      "name": "Palmiers",
+      "price": 85,
+      "image": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=300&q=60&fm=webp",
+      "description": "Crispy French palmier cookies with caramelized sugar.",
+      "ingredients": ["Puff pastry", "Sugar", "Butter"],
+      "rating": 4.6,
+      "category": "cookies",
+      "tags": ["french"]
+    },
+    {
+      "id": "k6",
+      "name": "Granola Bar",
+      "price": 95,
+      "image": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?w=300&q=60&fm=webp",
+      "description": "Chewy granola bar with oats, honey, and dried fruits.",
+      "ingredients": ["Oats", "Honey", "Almonds", "Raisins", "Cranberries"],
+      "rating": 4.5,
+      "category": "cookies",
+      "tags": ["healthy"]
+    }
+  ],
+  "pies": [
+    {
+      "id": "pi1",
+      "name": "Apple Pie",
+      "price": 450,
+      "image": "https://images.unsplash.com/photo-1535920527002-b35e96722eb9?w=300&q=60&fm=webp",
+      "description": "Homestyle apple pie with cinnamon and a buttery crust.",
+      "ingredients": ["Apples", "Cinnamon", "Flour", "Butter", "Sugar"],
+      "rating": 4.5,
+      "category": "pies",
+      "tags": ["seasonal"]
+    },
+    {
+      "id": "pi2",
+      "name": "Lemon Meringue Pie",
+      "price": 480,
+      "image": "https://images.unsplash.com/photo-1519915028121-7d3463d20b13?w=300&q=60&fm=webp",
+      "description": "Tangy lemon filling topped with fluffy meringue.",
+      "ingredients": ["Lemons", "Eggs", "Sugar", "Flour", "Butter"],
+      "rating": 4.6,
+      "category": "pies",
+      "tags": ["classic"]
+    },
+    {
+      "id": "pi3",
+      "name": "Fruit Tart",
+      "price": 520,
+      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=300&q=60&fm=webp",
+      "description": "Buttery tart shell filled with custard and fresh fruits.",
+      "ingredients": ["Flour", "Butter", "Custard", "Strawberries", "Blueberries"],
+      "rating": 4.8,
+      "category": "pies",
+      "tags": ["bestseller"]
+    },
+    {
+      "id": "pi4",
+      "name": "Apple Turnover",
+      "price": 180,
+      "image": "https://images.unsplash.com/photo-1621743478914-cc8a86d7e7b5?w=300&q=60&fm=webp",
+      "description": "Flaky puff pastry filled with spiced apple.",
+      "ingredients": ["Puff pastry", "Apples", "Cinnamon", "Sugar", "Butter"],
+      "rating": 4.6,
+      "category": "pies",
+      "tags": ["classic"]
+    },
+    {
+      "id": "pi5",
+      "name": "Berry Danish",
+      "price": 220,
+      "image": "https://images.unsplash.com/photo-1621743478914-cc8a86d7e7b5?w=300&q=60&fm=webp",
+      "description": "Buttery Danish topped with fresh berries and cream.",
+      "ingredients": ["Danish pastry", "Cream cheese", "Raspberries", "Blueberries"],
+      "rating": 4.7,
+      "category": "pies",
+      "tags": ["premium"]
+    }
+  ],
+  "bakery": [
+    {
+      "id": "b1",
+      "name": "Fresh Bread Loaf",
+      "price": 180,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&q=60&fm=webp",
+      "description": "Soft, warm, freshly baked white bread loaf.",
+      "ingredients": ["Flour", "Yeast", "Water", "Salt", "Butter"],
+      "rating": 4.7,
+      "category": "bakery",
+      "tags": ["daily"]
+    },
+    {
+      "id": "b2",
+      "name": "Baguette",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=300&q=60&fm=webp",
+      "description": "Crispy French baguette with soft inside.",
+      "ingredients": ["Flour", "Yeast", "Water", "Salt"],
+      "rating": 4.6,
+      "category": "bakery",
+      "tags": ["french"]
+    },
+    {
+      "id": "b3",
+      "name": "Bagel",
+      "price": 120,
+      "image": "https://images.unsplash.com/photo-1585478259715-16c1c4a0f1b1?w=300&q=60&fm=webp",
+      "description": "Chewy sesame-crusted bagel, perfect with cream cheese.",
+      "ingredients": ["Flour", "Yeast", "Sesame seeds", "Salt", "Sugar"],
+      "rating": 4.5,
+      "category": "bakery",
+      "tags": ["breakfast"]
+    },
+    {
+      "id": "b4",
+      "name": "Blueberry Muffin",
+      "price": 140,
+      "image": "https://images.unsplash.com/photo-1607958996333-41aef7caefaa?w=300&q=60&fm=webp",
+      "description": "Soft muffin packed with juicy blueberries.",
+      "ingredients": ["Flour", "Blueberries", "Butter", "Sugar", "Eggs"],
+      "rating": 4.7,
+      "category": "bakery",
+      "tags": ["bestseller"]
+    },
+    {
+      "id": "b5",
+      "name": "Cinnamon Roll",
+      "price": 180,
+      "image": "https://images.unsplash.com/photo-1509365465985-25d11c17e812?w=300&q=60&fm=webp",
+      "description": "Soft roll swirled with cinnamon and topped with icing.",
+      "ingredients": ["Flour", "Butter", "Cinnamon", "Sugar", "Cream cheese icing"],
+      "rating": 4.9,
+      "category": "bakery",
+      "tags": ["bestseller"]
+    },
+    {
+      "id": "b6",
+      "name": "Scone",
+      "price": 130,
+      "image": "https://images.unsplash.com/photo-1587241321921-91a834d6d191?w=300&q=60&fm=webp",
+      "description": "Classic scone with cranberries, best with tea.",
+      "ingredients": ["Flour", "Butter", "Cranberries", "Sugar", "Cream"],
+      "rating": 4.5,
+      "category": "bakery",
+      "tags": ["tea-time"]
+    },
+    {
+      "id": "b7",
+      "name": "Focaccia",
+      "price": 220,
+      "image": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=300&q=60&fm=webp",
+      "description": "Italian flatbread with rosemary, olive oil, and sea salt.",
+      "ingredients": ["Flour", "Olive oil", "Rosemary", "Sea salt", "Yeast"],
+      "rating": 4.6,
+      "category": "bakery",
+      "tags": ["italian"]
+    },
+    {
+      "id": "b8",
+      "name": "Pretzel",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1568051243851-f9b136146e97?w=300&q=60&fm=webp",
+      "description": "Soft, chewy pretzel with coarse salt crystals.",
+      "ingredients": ["Flour", "Yeast", "Salt", "Butter", "Baking soda"],
+      "rating": 4.5,
+      "category": "bakery",
+      "tags": ["classic"]
+    },
+    {
+      "id": "b9",
+      "name": "Danish Roll",
+      "price": 200,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&q=60&fm=webp",
+      "description": "Rolled Danish with cinnamon sugar and nuts.",
+      "ingredients": ["Danish pastry", "Cinnamon", "Sugar", "Walnuts", "Butter"],
+      "rating": 4.7,
+      "category": "bakery",
+      "tags": ["premium"]
+    }
+  ]
+}

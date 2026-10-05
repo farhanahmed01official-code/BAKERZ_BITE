@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Buy 1 Get 1 Free",
+    "subtitle": "On All Pastries",
+    "description": "Order any pastry and get another one absolutely free. Perfect for sharing with a friend!",
+    "validTill": "2026-12-31",
+    "code": "PASTRY2X",
+    "icon": "croissant",
+    "color": "#8b1e2d"
+  },
+  {
+    "id": 2,
+    "title": "20% Off on Cakes",
+    "subtitle": "Orders Above Rs 1000",
+    "description": "Celebrate every occasion with our premium cakes and save big on your order.",
+    "validTill": "2026-11-30",
+    "code": "CAKE20",
+    "icon": "cake",
+    "color": "#c9a45c"
+  },
+  {
+    "id": 3,
+    "title": "Free Cookie",
+    "subtitle": "With Every Coffee",
+    "description": "Every evening between 4 PM - 6 PM, get a free chocolate chip cookie with any coffee.",
+    "validTill": "2026-10-31",
+    "code": "COOKIEFREE",
+    "icon": "cookie",
+    "color": "#6b3e26"
+  },
+  {
+    "id": 4,
+    "title": "Flat 15% Off",
+    "subtitle": "First Order",
+    "description": "New to Bakerz Bite? Enjoy a special welcome discount on your very first order.",
+    "validTill": "2026-12-31",
+    "code": "WELCOME15",
+    "icon": "gift",
+    "color": "#4a7c3a"
+  },
+  {
+    "id": 5,
+    "title": "Family Combo",
+    "subtitle": "Save Rs 500",
+    "description": "Any 2 cakes + 6 pastries + 4 cookies at a special family price. Perfect for gatherings.",
+    "validTill": "2026-11-15",
+    "code": "FAMILY500",
+    "icon": "heart",
+    "color": "#8b1e2d"
+  },
+  {
+    "id": 6,
+    "title": "Weekend Special",
+    "subtitle": "Buy 2 Get 1 Free",
+    "description": "On all cookies and brownies every Saturday and Sunday. Stock up for the week!",
+    "validTill": "2026-12-31",
+    "code": "WEEKEND3",
+    "icon": "star",
+    "color": "#c9a45c"
+  }
+]

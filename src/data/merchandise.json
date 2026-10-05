@@ -1,0 +1,152 @@
+[
+  {
+    "id": "m1",
+    "name": "Baker's T-Shirt",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=300&q=60&fm=webp",
+    "description": "Premium cotton t-shirt with Baker's logo. Comfortable fit, breathable fabric.",
+    "rating": 4.7,
+    "category": "apparel",
+    "tags": ["cotton", "unisex"]
+  },
+  {
+    "id": "m2",
+    "name": "Baker's Apron",
+    "price": 1199,
+    "image": "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=300&q=60&fm=webp",
+    "description": "Classic brown apron with embroidered Baker's logo. Perfect for baking.",
+    "rating": 4.9,
+    "category": "apparel",
+    "tags": ["bestseller"]
+  },
+  {
+    "id": "m3",
+    "name": "Baker's Cap",
+    "price": 699,
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=300&q=60&fm=webp",
+    "description": "Stylish two-tone cap with embroidered logo. Adjustable strap.",
+    "rating": 4.6,
+    "category": "apparel",
+    "tags": ["trending"]
+  },
+  {
+    "id": "m4",
+    "name": "Baker's Ceramic Mug",
+    "price": 499,
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=300&q=60&fm=webp",
+    "description": "White ceramic mug with Baker's logo. Microwave and dishwasher safe. 350ml.",
+    "rating": 4.8,
+    "category": "drinkware",
+    "tags": ["bestseller"]
+  },
+  {
+    "id": "m5",
+    "name": "Baker's Tote Bag",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=300&q=60&fm=webp",
+    "description": "Eco-friendly canvas tote bag with printed logo. Reusable and sturdy.",
+    "rating": 4.5,
+    "category": "bags",
+    "tags": ["eco-friendly"]
+  },
+  {
+    "id": "m6",
+    "name": "Baker's Keychain",
+    "price": 249,
+    "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=300&q=60&fm=webp",
+    "description": "Wooden keychain with engraved Baker's logo. Perfect small gift.",
+    "rating": 4.4,
+    "category": "accessories",
+    "tags": ["gift"]
+  },
+  {
+    "id": "m7",
+    "name": "Baker's Bottle",
+    "price": 849,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=300&q=60&fm=webp",
+    "description": "Stainless steel insulated bottle. Keeps drinks hot/cold for hours. 500ml.",
+    "rating": 4.7,
+    "category": "drinkware",
+    "tags": ["premium"]
+  },
+  {
+    "id": "m8",
+    "name": "Baker's Notebook",
+    "price": 399,
+    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=300&q=60&fm=webp",
+    "description": "Kraft cover spiral notebook. 120 pages. Perfect for recipes.",
+    "rating": 4.5,
+    "category": "stationery",
+    "tags": ["eco-friendly"]
+  },
+  {
+    "id": "m9",
+    "name": "Baker's Paper Bag",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1591337254516-6b8b3a97bd4f?w=300&q=60&fm=webp",
+    "description": "Brown paper bag with Baker's logo. Sturdy, reusable, eco-friendly.",
+    "rating": 4.3,
+    "category": "bags",
+    "tags": ["eco-friendly"]
+  },
+  {
+    "id": "m10",
+    "name": "Baker's Badge",
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1611085884300-2e6a2df1fe8e?w=300&q=60&fm=webp",
+    "description": "Metal pin badge with Baker's logo. Perfect for aprons and bags.",
+    "rating": 4.6,
+    "category": "accessories",
+    "tags": ["gift"]
+  },
+  {
+    "id": "m11",
+    "name": "Baker's Phone Case",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=300&q=60&fm=webp",
+    "description": "Brown silicone phone case with Baker's logo. Shockproof.",
+    "rating": 4.5,
+    "category": "accessories",
+    "tags": ["trending"]
+  },
+  {
+    "id": "m12",
+    "name": "Baker's Socks",
+    "price": 349,
+    "image": "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=300&q=60&fm=webp",
+    "description": "Comfortable cotton socks with Baker's logo. One size fits all.",
+    "rating": 4.4,
+    "category": "apparel",
+    "tags": ["comfy"]
+  },
+  {
+    "id": "m13",
+    "name": "Baker's Lunch Bag",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=300&q=60&fm=webp",
+    "description": "Insulated lunch bag with Baker's logo. Keeps food fresh.",
+    "rating": 4.6,
+    "category": "bags",
+    "tags": ["premium"]
+  },
+  {
+    "id": "m14",
+    "name": "Baker's Umbrella",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=300&q=60&fm=webp",
+    "description": "Brown automatic umbrella with Baker's logo. Windproof.",
+    "rating": 4.7,
+    "category": "accessories",
+    "tags": ["monsoon"]
+  },
+  {
+    "id": "m15",
+    "name": "Baker's Sticker Pack",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=300&q=60&fm=webp",
+    "description": "Set of 5 Baker's logo stickers. Waterproof and durable.",
+    "rating": 4.8,
+    "category": "stationery",
+    "tags": ["bestseller"]
+  }
+]
